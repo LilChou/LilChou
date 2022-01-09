@@ -28,9 +28,18 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 <!-- Search icon from https://www.flaticon.com/search?word=command%20line&order_by=4&type=icon -->
 
-
-<img align="left" width="26px" alt="python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+* Languages
 <img align="left" width="26px" alt="command-line" src="https://cdn-icons-png.flaticon.com/512/5756/5756386.png" />
+<img align="left" width="26px" alt="python" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
+<img align="left" width="26px" alt="java" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" />
+<img align="left" width="26px" alt="javascript" src="https://cdn-icons-png.flaticon.com/512/919/919828.png" />
+<img align="left" width="26px" alt="cpp" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
+
+<br />
+<br />
+
+* Tools
+
 <img align="left" width="26px" alt="git" src="https://cdn-icons-png.flaticon.com/512/2111/2111423.png" />
 <img align="left" width="26px" alt="gitlab" src="https://cdn-icons-png.flaticon.com/512/5968/5968870.png" />
 <img align="left" width="26px" alt="aws" src="https://images.squarespace-cdn.com/content/v1/52ca3b73e4b04a45ef2c5cb6/1551884861331-C9U2RHJQLOPL9F332X5O/AWS_blog_01.PNG" />

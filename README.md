@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 -->
 
 # Hi there, I am Yu-Jung 👋 ([link](https://lilchou.github.io))
+# Cybersecurity Enthusiast & Software Engineer
 - 🔭 I am currently working as a Software Development Engineer.
-- 🌱 I’m currently learning Security on [TryHackMe](https://tryhackme.com).
+- 👯 I’m looking to collaborate on Projects of Cybersecurity.
+- 🌱 I’m currently learning Security on
+  - [TryHackMe](https://tryhackme.com).
+  - YouTube videos with videos of hands-on project
+- <img width="23px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/1958/1958698.png" /> Certificate:
+  - CompTIA Security+
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/yj-chou/" >
-      <img align="left" width="23px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+      <img align="left" width="23px" alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />
     </a>
     
 <br />
